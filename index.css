@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-top: 25%;
+}
+.btn:focus{
+    box-shadow: none;
+    text-decoration: none;
+    border: none;
+}
+i{
+    font-size: 40px;
+}
+btn{
+    height: 40px;
+    outline:none;
+}
